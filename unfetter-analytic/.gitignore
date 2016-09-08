@@ -1,0 +1,7 @@
+# .gitignore for unfetter-server
+
+elasticsearch-hadoop-2.2.0
+.vagrant
+*.pyc
+*.log
+

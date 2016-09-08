@@ -1,0 +1,5 @@
+.vagrant
+*.zip
+*.msi
+*.exe
+!scripts/*
