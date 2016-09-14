@@ -7,7 +7,7 @@ This reference implementation provides a framework for collecting events (proces
 
 The goal of this effort is to enable analytic developers, malware analysts, or infrastructure owners to experiment with existing adversary detection analytics or create additional analytics. Efforts have been made to simplify the installation and setup of this reference implementation. While scalable components have been used, this is meant to be a development system. A production architecture would need to be further developed to run in a large scale environment.
 
-Please see the wiki for more information and setup instructions: https://github.com/iadgov/Unfetter/wiki.
+Please see the wiki for more information and setup instructions: https://github.com/iadgov/unfetter/wiki.
 
 
 ATT&CK is a trademark of The MITRE Corporation.
