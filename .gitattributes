@@ -19,6 +19,7 @@
 *.exe           binary
 *.dll           binary
 *.obj           binary
+
 # Config Files
 # ============
 *.conf     text eol=lf
